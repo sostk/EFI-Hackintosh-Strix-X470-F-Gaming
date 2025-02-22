@@ -1,0 +1,104 @@
+─ CPU
+  └── AMD Ryzen 7 5800X 8-Core Processor             
+      ├── Cores: 8
+      ├── Threads: 16
+      ├── SSE: SSE4.2
+      ├── SSSE3: Supported
+      └── Codename: Vermeer
+
+─ Motherboard
+  ├── Model: ROG STRIX X470-F GAMING
+  └── Manufacturer: ASUSTeK COMPUTER INC.
+
+─ GPU
+  ├── Radeon (TM) RX 470 Graphics
+  │   ├── Device ID: 0x67DF
+  │   ├── Vendor: 0x1002
+  │   ├── PCI Path: PciRoot(0x0)/Pci(0x3,0x2)/Pci(0x0,0x0)
+  │   ├── ACPI Path: \_SB.PCI0.GPP9.X162
+  │   └── Codename: Polaris 10
+  └── NVIDIA GeForce RTX 3070
+      ├── Device ID: 0x2484
+      ├── Vendor: 0x10DE
+      ├── PCI Path: PciRoot(0x0)/Pci(0x3,0x1)/Pci(0x0,0x0)
+      └── ACPI Path: \_SB.PCI0.GPP8.X161
+
+─ Memory
+  ├── F4-3200C16-8GFX (Part-Number)
+  │   ├── Type: DDR4
+  │   ├── Slot
+  │   │   ├── Bank: BANK 0
+  │   │   └── Channel: DIMM_A1
+  │   ├── Frequency (MHz): 2133 MHz
+  │   ├── Manufacturer: G Skill Intl
+  │   └── Capacity: 8192MB
+  ├── F4-3200C14-8GFX (Part-Number)
+  │   ├── Type: DDR4
+  │   ├── Slot
+  │   │   ├── Bank: BANK 1
+  │   │   └── Channel: DIMM_A2
+  │   ├── Frequency (MHz): 2133 MHz
+  │   ├── Manufacturer: G Skill Intl
+  │   └── Capacity: 8192MB
+  ├── F4-3200C16-8GFX (Part-Number)
+  │   ├── Type: DDR4
+  │   ├── Slot
+  │   │   ├── Bank: BANK 2
+  │   │   └── Channel: DIMM_B1
+  │   ├── Frequency (MHz): 2133 MHz
+  │   ├── Manufacturer: G Skill Intl
+  │   └── Capacity: 8192MB
+  └── F4-3200C14-8GFX (Part-Number)
+      ├── Type: DDR4
+      ├── Slot
+      │   ├── Bank: BANK 3
+      │   └── Channel: DIMM_B2
+      ├── Frequency (MHz): 2133 MHz
+      ├── Manufacturer: G Skill Intl
+      └── Capacity: 8192MB
+
+─ Network
+  ├── I211 Gigabit Network Connection
+  │   ├── Device ID: 0x1539
+  │   ├── Vendor: 0x8086
+  │   ├── PCI Path: PciRoot(0x0)/Pci(0x1,0x3)/Pci(0x0,0x2)/Pci(0x7,0x0)/Pci(0x0,0x0)
+  │   └── ACPI Path: \_SB.PCI0.GPP2.PT02.PT27.I211
+  └── Wi-Fi 6 AX200
+      ├── Device ID: 0x2723
+      ├── Vendor: 0x8086
+      ├── PCI Path: PciRoot(0x0)/Pci(0x1,0x3)/Pci(0x0,0x2)/Pci(0x0,0x0)/Pci(0x0,0x0)
+      └── ACPI Path: \_SB.PCI0.GPP2.PT02.PT20.X4_0
+
+─ Audio
+  ├── Realtek ALC1168
+  │   ├── Device ID: 0x1168
+  │   └── Vendor: 0x10EC
+  └── Unknown Sound Device
+      ├── Device ID: 0x009E
+      └── Vendor: 0x10DE
+
+─ Input
+  ├── USB Input Device (USB)
+  │   ├── Product ID: 0x6341
+  │   └── Vendor ID: 0x03F0
+  ├── HID-compliant mouse
+  │   ├── Product ID: 0x6341
+  │   └── Vendor ID: 0x03F0
+  └── USB Input Device (USB)
+      ├── Product ID: 0xC077
+      └── Vendor ID: 0x046D
+
+─ Storage
+  ├── SPCC Solid State Disk
+  │   ├── Type: Solid State Drive (SSD)
+  │   ├── Connector: Serial ATA (SATA)
+  │   └── Location: Internal
+  ├── SanDisk Ultra
+  │   ├── Type: Unspecified
+  │   ├── Connector: USB
+  │   └── Location: External
+  └── CT500P3PSSD8
+      ├── Type: NVMe
+      ├── Connector: PCI Express
+      └── Location: Internal
+
